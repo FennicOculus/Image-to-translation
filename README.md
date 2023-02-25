@@ -1,2 +1,2 @@
-# AutoEncoders-Tests
-This repo contains all the tests i make using auto encoders
+# Image Translation AutoEncoders
+This repo contains my experimentations using autoencoders in order to make an image to image translation model

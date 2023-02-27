@@ -3,7 +3,7 @@ This repo contains my experimentations using autoencoders in order to make an im
 
 # TODO
 - [X] Make a basic auto encoder.
-- [ ] Training two AE on a different dataset.
+- [ ] Training two AE on different datasets.
     - [ ] CelebA Dataset.
     - [ ] Anime Face Dataset 
 - [ ] Swaping/merging the two models and see the result.

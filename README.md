@@ -6,6 +6,9 @@ I'll also explore other options like VAE, CycleGan and UNIT models in the future
 # TODO
 - [X] Make a basic auto encoder.
 - [ ] Training two AE on different datasets.
-    - [ ] CelebA Dataset.
-    - [ ] Anime Face Dataset 
+    - [ ] Anime Face Dataset.
+        - [X] Make the architecture
+        - [X] Train basic AE 
+        - [ ] Add train/test split to dataset 
+    - [ ] CelebA Dataset. 
 - [ ] Swaping/merging the two models and see the result.

@@ -9,6 +9,7 @@ I'll also explore other options like VAE, CycleGan and UNIT models in the future
     - [ ] Anime Face Dataset.
         - [X] Make the architecture
         - [X] Train basic AE 
-        - [ ] Add train/test split to dataset 
+        - [X] Add train/test/validation split to dataset.
+        - [ ] Fine tune the model.
     - [ ] CelebA Dataset. 
 - [ ] Swaping/merging the two models and see the result.

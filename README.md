@@ -7,5 +7,5 @@ I'll also explore other options like VAE, CycleGan and UNIT models in the future
 - [X] Make a basic auto encoder.
 - [ ] Training two AE on different datasets.
     - [X] Anime Face Dataset.
-    - [ ] CelebA Dataset. 
-- [ ] Swaping/merging the two models and see the result.
+    - [X] CelebA Dataset. 
+    - [ ] Combination.
